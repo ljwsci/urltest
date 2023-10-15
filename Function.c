@@ -1,5 +1,5 @@
 模块:
-Finction name(db,字段名)
+Function name(db,字段名)
 Dim 记录集 As DAO.Recordset(db)
 记录集.AddNew
 记录集!字段名=字段名
